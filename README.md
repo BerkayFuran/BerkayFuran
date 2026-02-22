@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Berkay 👋
 
-<!--
-**BerkayFuran/BerkayFuran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Engineering Student  
+💻 Focused on building strong Frontend foundations  
+🚀 On a structured path to becoming a Full Stack Web Developer  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Current Skills
+- HTML
+- CSS
+- Responsive Design
+- Git & GitHub
+
+---
+
+## 📚 Currently Learning
+- JavaScript Fundamentals
+- Problem Solving
+- Clean Code Practices
+
+---
+
+## 🗺 Full Stack Learning Path
+- Advanced JavaScript
+- React
+- Backend Development (Node.js)
+- Databases (PostgreSQL)
+- Modern Web Technologies
+
+---
+
+## 🎯 Goal
+Build scalable, clean, and professional full stack web applications.
