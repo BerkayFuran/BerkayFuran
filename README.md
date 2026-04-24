@@ -9,6 +9,10 @@
 ## 🛠 Current Skills
 - HTML
 - CSS
+- JavaScript
+- React
+- Node.js
+- Sql
 - Responsive Design
 - Git & GitHub
 
