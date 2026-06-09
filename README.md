@@ -1,38 +1,35 @@
 # Hi, I'm Berkay 👋
 
-🎓 Computer Engineering Student  
-💻 Focused on building strong Frontend foundations  
-🚀 On a structured path to becoming a Full Stack Web Developer  
+Computer Engineering student focused on software development, Modern C++, and full-stack web technologies.
+
+Interested in building clean, practical, and scalable applications while continuously improving problem-solving and software engineering skills through hands-on projects.
 
 ---
 
-## 🛠 Current Skills
-- HTML
-- CSS
-- JavaScript
-- React
-- Node.js
-- Sql
-- Responsive Design
-- Git & GitHub
+## ⚡ Tech Stack
+
+* C++
+* JavaScript
+* React
+* Node.js
+* PostgreSQL
+* HTML
+* CSS
+* Git & GitHub
 
 ---
 
-## 📚 Currently Learning
-- JavaScript Fundamentals
-- Problem Solving
-- Clean Code Practices
+## 🚀 Current Focus
+
+* Modern C++ & Object-Oriented Programming
+* Full-Stack Web Development
+* Systems-Oriented Programming
+* Real-World Software Projects
 
 ---
 
-## 🗺 Full Stack Learning Path
-- Advanced JavaScript
-- React
-- Backend Development (Node.js)
-- Databases (PostgreSQL)
-- Modern Web Technologies
+## 📌 Projects
 
----
-
-## 🎯 Goal
-Build scalable, clean, and professional full stack web applications.
+* WorkFlow Manager (C++)
+* Full-Stack Web Applications
+* Frontend & Backend Practice Projects
