@@ -1,35 +1,41 @@
 # Hi, I'm Berkay 👋
 
-Computer Engineering student focused on software development, Modern C++, and full-stack web technologies.
+Computer Engineering student currently focused on Java and software development.
 
-Interested in building clean, practical, and scalable applications while continuously improving problem-solving and software engineering skills through hands-on projects.
+I build small projects to practice what I learn and improve my programming skills.
 
 ---
 
 ## ⚡ Tech Stack
 
-* C++
-* JavaScript
-* React
-* Node.js
-* PostgreSQL
-* HTML
-* CSS
-* Git & GitHub
+- Java
+- HTML
+- CSS
+- JavaScript
+- Git & GitHub
 
 ---
 
 ## 🚀 Current Focus
 
-* Modern C++ & Object-Oriented Programming
-* Full-Stack Web Development
-* Systems-Oriented Programming
-* Real-World Software Projects
+- Java Programming
+- Problem Solving
+- Building Java Projects
 
 ---
 
 ## 📌 Projects
 
-* WorkFlow Manager (C++)
-* Full-Stack Web Applications
-* Frontend & Backend Practice Projects
+### Vehicle Health System
+A Java learning project that performs basic vehicle health and maintenance checks.
+
+### Web Development Practice
+Small web projects I built while learning HTML, CSS, and JavaScript.
+
+---
+
+## 📚 Currently Learning
+
+- Java
+- Object-Oriented Programming
+- Software Development Fundamentals
